@@ -4,5 +4,3 @@
   <br>
  </p>
  
- # Projects
- - **Saturn Operative System**: a simple, low-level OS
